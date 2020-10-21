@@ -1,2 +1,1 @@
-# themer-bootstrap-responsive-web-template
- 
+# web-template
